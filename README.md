@@ -1,2 +1,1 @@
-# C20
-● Create various kinds of shapes. ● Apply physics to these objects and observe their behavior
+# C20-Student-boilerplate-code
